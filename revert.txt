@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi all we will revert changes
+=======
+Hi all today we will revert the commits
+
+>>>>>>> parent of c443827... revert revert.txt
